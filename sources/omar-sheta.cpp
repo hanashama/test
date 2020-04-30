@@ -1,6 +1,6 @@
 using namespace std;
 #include<iostream>
-#include"headers/omar-sheta.h"
+#include "omar-sheta.h"
 
 void omar-sheta()
 {
