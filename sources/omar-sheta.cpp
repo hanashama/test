@@ -8,10 +8,3 @@ cout<<"omarsheta@aucegypt.edu";
 
 
 }
-int main(){
-
-omar-sheta();
-
-
-
-}
